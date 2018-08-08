@@ -10,3 +10,5 @@ http://ruder.io/deep-learning-nlp-best-practices/index.html#attention
 Universal Language Model Fine-tuning for Text Classification
 
 https://github.com/sebastianruder/NLP-progress
+
+http://www.abigailsee.com/2017/08/30/four-deep-learning-trends-from-acl-2017-part-1.html
