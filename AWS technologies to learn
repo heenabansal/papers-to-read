@@ -1,0 +1,22 @@
+compute 
+step function (integration components), ec2, ecf, ekf, lambda, emr
+
+storage
+S3
+
+Database
+DynamoDB
+
+Aurora
+
+Monitoring
+Cloudwatch
+
+Queuing
+SQS
+
+Notification
+SNS
+
+Misc
+Redshift, Athena, Glue
