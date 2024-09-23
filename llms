@@ -26,4 +26,6 @@ https://www.anthropic.com/news/contextual-retrieval
 
 https://github.com/curiousily/AI-Bootcamp/blob/master/07.advanced-rag-with-llama-3-in-langchain.ipynb
 
+https://medium.com/@rubenszimbres/use-llms-to-turn-csvs-into-knowledge-graphs-a-case-in-healthcare-158d3ee0afde
+
 All kubeflow docker files https://github.com/kubeflow/kubeflow/blob/master/components/example-notebook-servers/jupyter-tensorflow-cuda-full/Dockerfile
